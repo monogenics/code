@@ -12,3 +12,16 @@ p-gen-bcf.py (Usage: ./p-gen-bcf \<Y\> \<processors\> \<TEMP_FOLDER\>)
 generates positive binary cubic forms. This is a parallelized implementation that can use multiple cores. Multiple files are generated and then concatenated for the final result.
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
