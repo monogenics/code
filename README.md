@@ -15,3 +15,13 @@ generates positive binary cubic forms. This is a parallelized implementation tha
 
 
 
+
+
+
+
+
+
+
+
+
+
