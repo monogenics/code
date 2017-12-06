@@ -1,7 +1,7 @@
 # code
 <h1>helper_functions.py</h1>
 
-contains a set of common functions that are imported other python programs.
+contains a set of common functions that are imported by other python programs.
 
 <h1>n-gen-bcf.py </h1>
 (Usage: ./n-gen-bcf.py <b>Y</b>)
