@@ -1,6 +1,6 @@
 # code
 helper_functions.py
--------------------
+------------------------------------------
 contains a set of common functions that are imported other python programs.
 
 n-gen-bcf.py (Usage: ./n-gen-bcf.py \<Y\>)
@@ -10,3 +10,5 @@ generates negative binary cubic forms. This is not a parallelized implementation
 p-gen-bcf.py (Usage: ./p-gen-bcf \<Y\> \<processors\> \<TEMP_FOLDER\>)
 ----------------------------------------------------------------------
 generates positive binary cubic forms. This is a parallelized implementation that can use multiple cores. Multiple files are generated and then concatenated for the final result.
+
+Addition code soon....
